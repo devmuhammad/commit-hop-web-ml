@@ -1,7 +1,7 @@
 // Number of classes to classify
 const NUM_CLASSES = 2;
-// Webcam Image size. Must be 227.
-const IMAGE_SIZE = 227;
+// Webcam Image size. Must be 500.
+const IMAGE_SIZE = 500;
 // K value for KNN
 const TOPK = 10;
 
